@@ -1,0 +1,23 @@
+#nav {
+    background-color: green;
+}
+
+div h1 {
+    text-align: left;
+    padding-top: 10px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif
+}
+
+div ul {
+    list-style: none;
+    text-align: right;
+}
+div li{
+    display: inline;
+    padding-bottom: 10;
+    position: relative;
+}
+div li a{
+    padding: 10px;
+}
